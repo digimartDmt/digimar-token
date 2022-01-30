@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## digimart A decentralized meme token
+## Digimart Token Issued on Tomochain
+DIGIMART is a decentralized meme token on TOMOCHAIN which is going to be trended in the crypto world very soon. It will be traded with low fees so that nobody lefts to be involved in this project. Digimart is on a mission to bring popular cryptocurrency concepts to the mainstream in one, easy to understand project. DIGIMART is in it for the long haul. The decentralized community is fostering long-term development of the
 
-You can use the [editor on GitHub](https://github.com/digimartDmt/digimar-token/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ecosystem which will result in real use cases, greater rewards and a popularity beyond any temporary trends. We believe that community is the commerce of the future. Imagine a tokenmunity coming together with the singular common focus of increasing the wealth of everyone involved! The blockchain is the perfect mechanism
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+to allow this to happen. Talk about a dream come true! These are the reasons why we had to create, develop and launch the DIGIMART token.
+### PROJECT & VISION
 
-### Markdown
+DIGIMART is not only another meme token, it has multiple great visions to approach the whole crypto world. DIGIMART  will make a wonderful history in crypto world because of millions of holders.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DIGIMART Ensuring user choice — adapting to user preferences and giving users decision making power. It’s fundamentally about autonomy. Decentralised control looks like end-users having a choice between service providers and not being forced into accepting terms and conditions that exploit them due to a lack of alternatives
 
-```markdown
-Syntax highlighted code block
+```digimart
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
+
+[Link](https://digimartdmt.in) 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ more details [digimart DMT Token](https://www.digimartdmt.in).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digimartDmt/digimar-token/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
